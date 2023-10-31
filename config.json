@@ -1,0 +1,23 @@
+{
+  "required": {
+    "token": "MTE2ODU5NTc1NDM0MDg2MDAxNA.GzOGiU.RtEVPmQ6iD_uP1HcdekZ2s6DGg0xvgFMc2HF1A",
+    "idOwner": "346043547981578241",
+    "idStaff": "1085983768994652263",
+    "prefix": "."
+  },
+  "logs": {
+    "baterponto": "1085983770135498850"
+  },
+  "mysql": {
+    "conexaodb": "127.0.0.1",
+    "port": "3306",
+    "userdb": "root",
+    "senhadb": "",
+    "db": "crowley_mysql"
+  },
+  "emojis": {
+    "emojiSetas": "<a:venidici:1168659382603624478>",
+    "emojiVerify": "<a:venidici:1168659382603624478>",
+    "emojiNoVerify": "<a:venidici:1168659382603624478>"
+  }
+}
