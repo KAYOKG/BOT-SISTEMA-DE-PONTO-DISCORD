@@ -1,19 +1,19 @@
 {
     "required": {
-        "token": "MTE2ODU5NTc1NDM0MDg2MDAxNA.Gjxfht.vFFVrlSSk_EDHGltlrmGuhrW58LAJVN5I4859Q",
-        "idOwner": "346043547981578241",
-        "idStaff": "1146532490639577131",
+        "token": "",
+        "idOwner": "",
+        "idStaff": "",
         "prefix":"."
     },
     "logs": {
-        "baterponto": "1168867364020961320"
+        "baterponto": ""
     },
     "mysql": {
         "conexaodb": "127.0.0.1",
         "port": "3306",
         "userdb": "root",
         "senhadb": "",
-        "db": "crowley_mysql"
+        "db": "kg_mysql"
     },
     "emojis": {
         "emojiSetas": "<a:setas:1010561721473183774>",

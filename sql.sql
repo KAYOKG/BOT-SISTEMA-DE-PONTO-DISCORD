@@ -1,6 +1,6 @@
 
-CREATE DATABASE IF NOT EXISTS `crowley_mysql` /*!40100 DEFAULT CHARACTER SET latin1 */;
-USE `crowley_mysql`;
+CREATE DATABASE IF NOT EXISTS `kg_mysql` /*!40100 DEFAULT CHARACTER SET latin1 */;
+USE `kg_mysql`;
 
 CREATE TABLE IF NOT EXISTS `staff_users` (
 	`staffDiscord` VARCHAR(50) NOT NULL,
