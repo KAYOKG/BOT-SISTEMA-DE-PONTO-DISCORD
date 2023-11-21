@@ -1,23 +1,23 @@
 {
-    "required": {
-        "token": "",
-        "idOwner": "346043547981578241",
-        "idStaff": "1176562788613771304",
-        "prefix": "."
-    },
-    "logs": {
-        "baterponto": "1176558078917869661"
-    },
-    "mysql": {
-        "conexaodb": "127.0.0.1",
-        "port": "3306",
-        "userdb": "root",
-        "senhadb": "",
-        "db": "kayo_sql"
-    },
-    "emojis": {
-        "emojiSetas": "<a:setas:1010561721473183774>",
-        "emojiVerify": "<a:verify:1010562363528843315>",
-        "emojiNoVerify": "<a:noverify:1010562341798154321>"
-    }
+  "required": {
+    "token": "",
+    "idOwner": "346043547981578241",
+    "idStaff": "1176562788613771304",
+    "prefix": "."
+  },
+  "logs": {
+    "baterponto": "1176558078917869661"
+  },
+  "mysql": {
+    "conexaodb": "127.0.0.1",
+    "port": "3306",
+    "userdb": "root",
+    "senhadb": "",
+    "db": "kayo_sql"
+  },
+  "emojis": {
+    "emojiSetas": "<a:setas:1010561721473183774>",
+    "emojiVerify": "<a:verify:1010562363528843315>",
+    "emojiNoVerify": "<a:noverify:1010562341798154321>"
+  }
 }
