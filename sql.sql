@@ -1,6 +1,6 @@
 
-CREATE DATABASE IF NOT EXISTS `kg_mysql` /*!40100 DEFAULT CHARACTER SET latin1 */;
-USE `kg_mysql`;
+CREATE DATABASE IF NOT EXISTS `kayo_sql` /*!40100 DEFAULT CHARACTER SET latin1 */;
+USE `kayo_sql`;
 
 CREATE TABLE IF NOT EXISTS `staff_users` (
 	`staffDiscord` VARCHAR(50) NOT NULL,
